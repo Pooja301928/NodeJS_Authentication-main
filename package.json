@@ -9,21 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siddhardik/NodeJS_Authentication.git"
+    "url": "git+https://github.com/Pooja301928/NodeJS_Authentication-main.git"
   },
   "keywords": [
-    "\"Siddhardik",
-    "Siddhi",
+    "\"pooja singh",
+    "pooja",
     "NodeJsAuthentication",
     "EmailUse",
     "\""
   ],
-  "author": "\"Siddhartha Bhunia  Siddhardik Full Stack Web Developement Learner\"",
+  "author": "\"pooja singh  Full Stack Web Developement Learner\"",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/siddhardik/NodeJS_Authentication/issues"
+    "url": "https://github.com/Pooja301928/NodeJS_Authentication-main.git"
   },
-  "homepage": "https://github.com/siddhardik/NodeJS_Authentication#readme",
+  "homepage": "https://github.com/Pooja301928/NodeJS_Authentication-main.git",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "bcryptjs": "^2.4.3",
